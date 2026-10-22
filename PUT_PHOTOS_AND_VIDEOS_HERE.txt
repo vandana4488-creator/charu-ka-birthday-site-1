@@ -1,0 +1,1 @@
+Add photo1.jpg through photo6.jpg, video1.mp4, video2.mp4, and optional music.mp3 to this folder. See ../README.txt.
